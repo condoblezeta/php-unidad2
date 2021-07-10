@@ -31,7 +31,7 @@ echo "<b>Editor de código preferido:</b> " . "Antes era Sublime Text 3, ahora V
 echo "<br>";
 echo "<br>";
 
-echo "<b>Mi sistema operativo:</b> " . PHP_OS . " [Windows 10]";
+echo "<b>Mi sistema operativo:</b> " . "Windows 10";
 
 ?>
 
